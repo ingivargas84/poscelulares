@@ -1,0 +1,2 @@
+[23-Nov-2021 05:34:46 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.31. in /home/r3tfgz59ok0a/melany_system_pruebas/vendor/composer/platform_check.php on line 24
+[23-Nov-2021 05:34:47 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.31. in /home/r3tfgz59ok0a/melany_system_pruebas/vendor/composer/platform_check.php on line 24
